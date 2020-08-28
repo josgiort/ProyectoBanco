@@ -1,0 +1,8 @@
+1.- Iniciar el servidor XAMPP
+2.- Ir a localhost/phpmyadmin en un navegador
+3.- Crear una base de datos llamada Banco
+4.- Importar en la base de datos creada anteriormente el archivo Banco.sql, de la carpeta Proyecto
+5.- Copiar la carpeta Proyecto en la carpeta "htdocs" en el directorio de XAMPP
+6.- Ir a localhost/Proyecto/index.php en un navagador
+
+LISTO
